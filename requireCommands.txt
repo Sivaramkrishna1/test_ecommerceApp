@@ -1,0 +1,18 @@
+to run test case :
+>>> pytest -v -s testCases/test_login.py
+
+to clear terminal :
+>>> cls
+
+to run test Tests on Desired Browsers :
+>>> pytest -v -s testCases/test_login.py --browser chrome      note: --browser should have two hifens
+>>> pytest -v -s testCases/test_login.py --browser firefox
+
+to run test Tests Parallel :
+>>> pytest -v -s -n=2 testCases/test_login.py --browser chrome
+  note:- here -n=2 mean number of tests run parallel
+
+to generate the HTML Reports run below Commands:
+>>> pytest -v -s -n=2 --html=Reports\report.html testCases/test_login.py --browser chrome
+
+

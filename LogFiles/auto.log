@@ -1,0 +1,16 @@
+2021-01-03 00:04:44,103: INFO: ********** Test_001_Login **********
+2021-01-03 00:04:44,103: INFO: ********** Verifying homepage Title **********
+2021-01-03 00:04:47,101: INFO: *********** homepage title test is passed *******
+2021-01-03 00:04:50,696: INFO: ********* Test_001_Login *******
+2021-01-03 00:04:50,696: INFO: ********* Verifying Login Test *******
+2021-01-03 00:05:03,927: INFO: ********* Login test is passed *********
+2021-01-03 11:24:53,455: INFO: ********** Test_001_Login **********
+2021-01-03 11:24:53,455: INFO: ********** Verifying homepage Title **********
+2021-01-03 11:24:59,004: INFO: ********* Test_001_Login *******
+2021-01-03 11:24:59,004: INFO: ********* Verifying Login Test *******
+2021-01-03 11:29:01,561: INFO: ********** Test_001_Login **********
+2021-01-03 11:29:01,562: INFO: ********** Verifying homepage Title **********
+2021-01-03 11:29:18,889: INFO: *********** homepage title test is passed *******
+2021-01-03 11:29:22,423: INFO: ********* Test_001_Login *******
+2021-01-03 11:29:22,425: INFO: ********* Verifying Login Test *******
+2021-01-03 11:30:25,763: INFO: ********* Login test is passed *********
