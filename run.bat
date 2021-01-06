@@ -1,1 +1,6 @@
-pytest -v -s -m "sanity" --html=Reports\sanity_test_report.html testCases/ --browser chrome
+public class Firstclass{
+  public static void main(String args[])
+  {
+     System.out.println("first java Programme")
+  }
+}
