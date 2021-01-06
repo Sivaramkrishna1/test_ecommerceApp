@@ -1,6 +1,1 @@
-public class Firstclass{
-  public static void main(String args[])
-  {
-     System.out.println("first java Programme")
-  }
-}
+pytest -v -s -m "sanity" --html=Reports/report1.html TestData/ --browser chrome
